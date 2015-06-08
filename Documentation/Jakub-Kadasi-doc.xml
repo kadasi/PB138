@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<article>
+    <articleinfo>
+        <title>Záverečná správa</title>
+        <subtitle>
+            Webový repozitár pre vývojové artefakty
+        </subtitle>
+        <author>
+            <firstname>Jakub</firstname>
+            <surname>Kadaši</surname>
+        </author>
+    </articleinfo>
+
+    <section>
+        <title>Záverečná správa</title>
+        <para>
+            Mojou úlohou v projekte bolo zvoliť vhodný spôsob extrahovania metadát
+			a implementovať triedy, ktoré budú toto parsovanie vykonávať.
+        </para>
+    </section>             
+        
+    <section>
+        <title>Použité prostriedky</title>
+        <para>
+            Na extrahovanie metadát z artefaktov som zvolil DOM.
+        </para>
+    </section>            
+    
+    <section>
+        <title>Extrahovanie metadát</title>
+        <para>
+            Formát metadát som sa snažil zvoliť jednoduchý. Koreňový element má názov
+			podľa metadát, ktoré obsahuje (resp. môžu byť pre daný artefakt extrahované.
+        </para>
+    </section>             
+     
+</article>

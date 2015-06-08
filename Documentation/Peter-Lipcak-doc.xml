@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<article>
+    <articleinfo>
+        <title>Záverečná správa</title>
+        <subtitle>
+            Webový repozitár pre vývojové artefakty
+        </subtitle>
+        <author>
+            <firstname>Peter</firstname>
+            <surname>Lipčák</surname>
+        </author>
+    </articleinfo>
+
+    <section>
+        <title>Záverečná správa</title>
+        <para>
+            Mojou úlohou bolo spraviť jsp stránky k programu a naimplementovať
+            rozhrania ActionBean s ktorými tieto stránky spolupracovali. Pomocou
+            týchto tried prebiehala komunikácia medzi stránkami a databázou.                   
+        </para>
+    </section>             
+        
+    <section>
+        <title>JSP stránky</title>
+        <para>
+            V jsp stránkach som použil framework Stripes na prepojenie s ActionBeans.
+            Stripes podporuje funkcionalitu ako napr. vyhľadávanie, uploadovanie súborov 
+            a zobrazovanie jednotlivých artefaktov.
+        </para>
+    </section>            
+    
+    <section>
+        <title>ActionBeans</title>
+        <para>
+            Pre každý jeden dokument existuje príslušný ActionBean, ktorý vo svojich
+            metódach volá metódy z manažérov, ktoré priamo pracujú s databázou. Po 
+            prevedení tieto funkcie vracajú jsp stránku ktorá sa má zobraziť. 
+        </para>
+    </section>             
+     
+</article>

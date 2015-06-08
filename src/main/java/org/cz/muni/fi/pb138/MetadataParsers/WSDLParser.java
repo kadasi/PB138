@@ -12,12 +12,12 @@ import org.w3c.dom.NodeList;
 
 /**
  * Class for parsing WSDL
- * @author
+ * @author Jakub Kadasi
  */
 public class WSDLParser {    
     
     /**
-     * Create extract document from WSDL 
+     * Create metadata document from WSDL 
      * @param doc original WSDL as dom.Document
      * @return Extracted WSDL as dom.Document
      * @throws ParserConfigurationException 

@@ -11,12 +11,12 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 /**
- * Class for parsing XSD
- * @author
+ * Class for parsing XSD documents
+ * @author Jakub Kadasi
  */
 public class XSDParser {
     /**
-    * Create extract document from XSD 
+    * Create metadata document from XSD 
     * @param doc original XSD as dom.Document
     * @return Extracted XSD as dom.Document
     */

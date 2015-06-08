@@ -12,11 +12,11 @@ import org.w3c.dom.NodeList;
 
 /**
  * Class for parsing web.XML from WAR archives
- * @author
+ * @author Jakub Kadasi
  */
 public class WARParser {
     /**
-    * Create extract document from web.XML 
+    * Create metadata document from web.XML 
     * @param doc original web.XML as dom.Document
     * @return Extracted web.XML as dom.Document
     * @throws ParserConfigurationException 

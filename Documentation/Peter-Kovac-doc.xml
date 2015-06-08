@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN" "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
+<article>
+  <articleinfo>
+    <title>Záverečná správa</title>
+    <subtitle>
+      Webový repozitár pre vývojové artefakty
+    </subtitle>
+    <author>
+      <personname>
+        <firstname>Peter</firstname>
+        <surname>Kováč</surname>
+      </personname>
+    </author>
+  </articleinfo>
+  <section>
+    <title>Záverečná správa</title>
+    <para>
+      Mojou úlohou v projekte bolo vybrať vhodnú databázu pre uchovávanie XML dokumentov a 
+      naimplementovať rozhrania, ktoré by riešili prácu s jednotlivými typmi dokumentov. 
+    </para>
+  </section>
+  <section>
+    <title>Výber XML databáze</title>
+    <para>
+      K uchovávaniu xml dokumentov som nakoniec zvolil databázu BaseX.
+    </para>
+  </section>
+  <section>
+    <title>Rozhrania pre prácu s databázou</title>
+    <para>
+      Na začiatku sme si v tíme stanovili, akú funkcionalitu má spĺňať naša aplikácia a popísali 
+      sme ju v UML diagrame. Podľa tohto diagramu som vytvoril jednotlivé API pre každý typ dokumentu
+      obsahujúce funkcie pre prácu s databázou. Vyhľadávanie dát som riešil pomocou Xquery.
+    </para>
+  </section>
+</article>

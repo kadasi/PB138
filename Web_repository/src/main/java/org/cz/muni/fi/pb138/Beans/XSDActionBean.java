@@ -22,7 +22,7 @@ import org.cz.muni.fi.pb138.Utilities.Util;
 
 /**
  * Action Bean for XSD
- * @author
+ * @author Peter Lipcak
  */
 @UrlBinding("/xsd/{$event}")
 public class XSDActionBean implements ActionBean {

@@ -22,7 +22,7 @@ import org.cz.muni.fi.pb138.Utilities.Util;
 
 /**
  * Action Bean for WSDL
- * @author
+ * @author Peter Lipcak
  */
 @UrlBinding("/wsdl/{$event}")
 public class WSDLActionBean implements ActionBean {

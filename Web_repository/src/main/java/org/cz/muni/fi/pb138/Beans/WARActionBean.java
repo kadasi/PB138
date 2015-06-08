@@ -22,7 +22,7 @@ import org.cz.muni.fi.pb138.Utilities.Util;
 
 /**
  * Action Bean for WAR
- * @author 
+ * @author Peter Lipcak
  */
 @UrlBinding("/war/{$event}")
 public class WARActionBean implements ActionBean {

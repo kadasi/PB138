@@ -5,7 +5,7 @@ import org.cz.muni.fi.pb138.Documents.WAR;
 
 /**
  * Interface with work with WAR archives
- * @author
+ * @author Peter Kováč
  */
 public interface WarManager {
     

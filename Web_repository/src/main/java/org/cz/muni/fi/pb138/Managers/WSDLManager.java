@@ -5,7 +5,7 @@ import org.cz.muni.fi.pb138.Documents.WSDL;
 
 /**
  * Interface with work with WSDLs
- * @author
+ * @author Peter Kováč
  */
 public interface WSDLManager {
     

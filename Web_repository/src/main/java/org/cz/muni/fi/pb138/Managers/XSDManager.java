@@ -5,7 +5,7 @@ import org.cz.muni.fi.pb138.Documents.XSD;
 
 /**
  * Interface with work with XSDs
- * @author
+ * @author Peter Kováč
  */
 public interface XSDManager {
     

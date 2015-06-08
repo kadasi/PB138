@@ -10,7 +10,7 @@ import org.cz.muni.fi.pb138.Utilities.Util;
 /**
  * Implementation of WSDL Manager
  *
- * @author
+ * @author Peter Kováč
  */
 public class WSDLManagerImpl implements WSDLManager {
     private DatabaseManager dm;

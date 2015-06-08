@@ -33,7 +33,7 @@ import org.xml.sax.SAXException;
 
 /**
  * Utility class
- * @author
+ * @author Peter Kováč
  */
 public class Util {
 

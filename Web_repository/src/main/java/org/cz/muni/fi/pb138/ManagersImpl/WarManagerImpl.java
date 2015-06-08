@@ -9,7 +9,7 @@ import org.cz.muni.fi.pb138.Utilities.DatabaseManager;
 import org.cz.muni.fi.pb138.Utilities.Util;
 /**
  * Implementation of WarManager
- * @author
+ * @author Peter Kováč
  */
 public class WarManagerImpl implements WarManager {
     private DatabaseManager dm;

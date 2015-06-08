@@ -2,7 +2,7 @@ package org.cz.muni.fi.pb138.Utilities;
 
 /**
  * Initialize All DB
- * @author
+ * @author Peter Kováč
  */
 public class CreateDB {
     public static void main(String[] args) {

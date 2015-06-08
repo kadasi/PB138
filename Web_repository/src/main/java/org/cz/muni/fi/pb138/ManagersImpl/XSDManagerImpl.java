@@ -11,7 +11,7 @@ import org.cz.muni.fi.pb138.Utilities.Util;
 /**
  * Implementation of XSDManager
  * 
- * @author
+ * @author Peter Kováč
  */
 public class XSDManagerImpl implements XSDManager {
     private DatabaseManager dm;

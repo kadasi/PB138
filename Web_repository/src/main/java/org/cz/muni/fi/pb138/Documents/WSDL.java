@@ -1,7 +1,7 @@
 package org.cz.muni.fi.pb138.Documents;
 
 /**
- * @author
+ * @author Peter Kováč, Peter Lipčák, Jakub Kadáši
  * This class represents WSDL document entity
  */
 public class WSDL {
